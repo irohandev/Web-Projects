@@ -12,3 +12,6 @@
 
 # Project 5:
 ### Hosted Link : https://drgaon-game-rds.netlify.app/
+
+# Project 6:
+### Hosted Link : https://snakegame-rds.netlify.app/
